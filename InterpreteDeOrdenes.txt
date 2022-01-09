@@ -1,0 +1,14 @@
+ExamenEnero2021
+2. unzip TonyStark/Iron\ Man/2008\ Iron\ Man/FromPepper.zip
+3. cat ProofHeart80x80.ascii
+4. mkdir Escritorio/TonyStark/Iron\ Man/2008\ Iron\ Man/Rescue
+5. mv ProofHeart80x80.ascii Escritorio/TonyStark/Iron\ Man/2008\ Iron\ Man/Rescue/ARC-        Reactor.exe
+6.cd Escritorio/TonyStark/Avengers/2015\ Avengers\:\ Age\ of\ Ultron/
+7.chmod 544 ../2018\ Avengers\:\ Infinity\ War/Battle\ on\ Titan/*S*e*    
+8.tail-4 ../Captain\ America/2016\ Captain\ America\:\ Civil\ War/Rogers\'\ Team/ | ls -l
+9.grep -n Earth  ../2012\ Marvel\'s\ The\ Avengers/FilmTranscript.txt | grep -v TH | grep -v ow > TonyStark/Avengers/ToAvengeTheEarth.txt
+10. cp ../../Iron\ Man/*/*pp*o*.??g  ../../Spiderman/2017\ Spider-Man\:\ Homecoming/
+11.ssh psychoLoki@teseo.act.uji.es
+    mv QuantumTimeTravels/MoeiusStrip /TonyStark/Avengers/2019\ Avengers\:\ Endgame/Morgan\ Stark/IceCream.svg
+12 Guardar los cambios
+
